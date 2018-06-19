@@ -1,0 +1,15 @@
+{
+  "name": "scmgalaxy/webserver",
+  "version": "0.1.0",
+  "author": "scmgalaxy",
+  "summary": "my apache webserver",
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": "dont come to me",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
